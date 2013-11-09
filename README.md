@@ -1,4 +1,4 @@
-# GemfileCleanup
+# gemfile_cleanup
 
 TODO: Write a gem description
 
